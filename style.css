@@ -1,0 +1,19 @@
+body{
+    padding-top: 50px;
+}
+
+div {
+    height: 60px;
+    border: 1px solid black;
+}
+
+.green{
+    background-color:#dff0d8;
+}
+.orange{
+    background-color:#F2DEDE;
+}
+
+.ivory{
+    background-color:#fcf8e3;
+}
